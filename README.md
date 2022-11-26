@@ -1,2 +1,3 @@
 # JavaScriptWeb-estudos
- Telcas interativas que reproduzem o som de bateria.
+ 
+ Teclas interativas que reproduzem o som de bateria quando o usuário aperta a tecla "Enter" ou "Space" do teclado, ou o botão esquerdo do mouse.
